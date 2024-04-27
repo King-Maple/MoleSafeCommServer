@@ -1,0 +1,3 @@
+
+rootProject.name = "摩尔庄园加密服务端"
+include ':app'
